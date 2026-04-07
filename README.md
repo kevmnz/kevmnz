@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/kevmnz/kevmnz/main/portada.png)
 # Kevin Mendoza
-**Data Analyst | Estudiante de Tecnicatura en Programación 🎓**
+**Data Analyst | Estudiante de Tecnicatura en Programación |**
 Transformando datos desordenados en dashboards interactivos y bases de datos escalables.
 ---
 ## 🙋‍♂️ ¿Quién soy?
