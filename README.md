@@ -1,10 +1,12 @@
 ![Banner](https://raw.githubusercontent.com/kevmnz/kevmnz/main/portada.png)
 # Kevin Mendoza
 **Data Analyst | Estudiante de Tecnicatura en Programación 🎓**
+
 Transformando datos desordenados en dashboards interactivos y bases de datos escalables.
 ---
 ## 🙋‍♂️ ¿Quién soy?
 Soy una persona proactiva, con una gran capacidad de aprendizaje y adaptación. Actualmente soy estudiante de Programación en la **Universidad Nacional de Quilmes** y estoy en búsqueda de un puesto relacionado con el **análisis de datos** donde pueda aplicar mis conocimientos y seguir aprendiendo.
+
 **Mis habilidades:**
 - 📈 Análisis de datos
 - 💻 Programación
@@ -40,5 +42,4 @@ Seguir desarrollándome profesionalmente en el área de análisis de datos, enfr
 ## 📩 Contacto
 - [LinkedIn](https://www.linkedin.com/in/kevinj-mendoza/)
 ---
-*🎯 Abierto a oportunidades como Data Analyst. Si estás buscando un perfil proactivo y con ganas de crecer, ¡no dudes en escribirme!*
----
+
