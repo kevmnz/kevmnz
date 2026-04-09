@@ -40,5 +40,6 @@ Seguir desarrollándome profesionalmente en el área de análisis de datos, enfr
 ---
 ## 📩 Contacto
 - [LinkedIn](https://www.linkedin.com/in/kevinj-mendoza/)
+- [Portfolio](https://kevin-data-portfolio.vercel.app/)
 ---
 
